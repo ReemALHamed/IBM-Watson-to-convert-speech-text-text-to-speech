@@ -65,7 +65,7 @@ As i run the program i started speaking and the program started showing my speec
 https://user-images.githubusercontent.com/85634099/125865962-8245d454-b3e0-47ed-b25a-21bc19832a8e.mp4
 
 ## MP3 FILE
-After running the program it converted the output text automatically into mp3 file 
+After running the program it converted the output text automatically into mp3 file as you can hear in this video:
 
 https://user-images.githubusercontent.com/85634099/125866007-4d8cfcd4-e492-43c6-a25b-78e1f07f401d.mp4
 
